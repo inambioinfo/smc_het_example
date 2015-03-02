@@ -1,5 +1,5 @@
-<tool id="${TOOL_ID}" name="${TOOL_NAME}" version="1.0.0">
-	<description>Put Description Here</description>
+<tool id="dpc" name="DPC Het" version="1.0.0">
+	<description>DPC based heterogeneity</description>
 	<requirements>
 		<container type="docker">r-base</container>
 	</requirements>
